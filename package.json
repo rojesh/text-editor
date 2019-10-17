@@ -1,7 +1,7 @@
 {
   "name": "text-editor",
   "version": "1.0.0",
-  "description": "Learning electron with text editor app",
+  "description": "Text Editor built with electron",
   "main": "app/main.js",
   "dependencies": {
     "electron": "^3.0.10",
@@ -25,5 +25,5 @@
     "url": "git+https://github.com/rojesh/text-editor"
   },
   "keywords": [],
-  "author": "Rojesh Shrestha<rojace2011@gmail.com>"
+  "author": "Rojesh Shrestha <rojace2011@gmail.com>"
 }
