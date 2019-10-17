@@ -1,0 +1,29 @@
+{
+  "name": "text-editor",
+  "version": "1.0.0",
+  "description": "Learning electron with text editor app",
+  "main": "app/main.js",
+  "dependencies": {
+    "electron": "^3.0.10",
+    "marked": "^0.5.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.1.1",
+    "devtron": "^1.4.0",
+    "electron-packager": "^8.3.0",
+    "electron-rebuild": "^1.8.6",
+    "eslint": "^3.11.0",
+    "eslint-plugin-import": "^2.2.0"
+  },
+  "scripts": {
+    "start": "electron .",
+    "postinstall": "electron-rebuild",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rojesh/text-editor"
+  },
+  "keywords": [],
+  "author": "Rojesh Shrestha<rojace2011@gmail.com>"
+}
