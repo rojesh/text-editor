@@ -4,7 +4,7 @@
   "description": "Text Editor built with electron",
   "main": "app/main.js",
   "dependencies": {
-    "electron": "^3.0.10",
+    "electron": "^7.2.4",
     "marked": "^0.6.1"
   },
   "devDependencies": {
