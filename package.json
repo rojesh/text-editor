@@ -5,7 +5,7 @@
   "main": "app/main.js",
   "dependencies": {
     "electron": "^3.0.10",
-    "marked": "^0.6.1"
+    "marked": "^4.0.10"
   },
   "devDependencies": {
     "babel-eslint": "^7.1.1",
